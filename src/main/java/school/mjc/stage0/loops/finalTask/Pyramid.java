@@ -16,11 +16,6 @@ public class Pyramid {
                 System.out.print(j);
             }
 
-            for (int s = 1; s <= cathetusLength - i; s++) {
-                System.out.print(" ");
-            }
-
-
             System.out.println();
         }
     }
